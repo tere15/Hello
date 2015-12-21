@@ -1,0 +1,22 @@
+{
+  "name": "Hello",
+  "version": "1.0.0",
+  "description": "RESTful server test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tere15/Hello.git"
+  },
+  "author": "\"Kristiina Horneman\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tere15/Hello/issues"
+  },
+  "homepage": "https://github.com/tere15/Hello#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+  }
+}
