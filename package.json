@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tere15/Hello#readme",
   "dependencies": {
-    "express": "^4.13.3",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
   }
 }
